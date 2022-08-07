@@ -6,3 +6,6 @@
 ### git log --oneline
 ### git remote add origin https://github.com/duuurjoy49/github-class.git
 ### git push origin 
+### git branch branch_name
+
+### git checkout branch_name
